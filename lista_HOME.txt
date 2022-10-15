@@ -1,0 +1,13 @@
+CEN0336_11784430/
+Desktop/
+Documentos/
+Downloads/
+Imagens/
+intro/
+lista_HOME.txt
+Modelos/
+Música/
+Público/
+README.md
+snap/
+Vídeos/
